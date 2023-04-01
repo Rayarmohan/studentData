@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676665415093",
+    "project_id": "studentdata-be962",
+    "storage_bucket": "studentdata-be962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676665415093:android:a7423c0a5a53997ef0f5fc",
+        "android_client_info": {
+          "package_name": "com.example.studentdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676665415093-1atsr7p07rscgpii7i00fm20815c3ldh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGgQrAiH9nAP6XZ3kCLX-nCazSlkiaX08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676665415093-1atsr7p07rscgpii7i00fm20815c3ldh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
